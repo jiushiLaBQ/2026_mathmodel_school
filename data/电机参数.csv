@@ -1,0 +1,8 @@
+﻿参数,Q90 电机,Q25 电机
+力矩限制,145 Nm,50 Nm
+,,
+转子惯量 (armature),0.0453 kg·m²,0.0067 kg·m²
+使用关节,"HIP\_PITCH, HIP\_ROLL, KNEE\_PITCH","HIP\_YAW, ANKLE, WAIST, SHOULDER, ELBOW, HEAD"
+最高转速(rpm),6400,8400
+减速比,25,25
+峰值扭矩密度,130Nm/kg,100 Nm/kg

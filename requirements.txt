@@ -1,0 +1,8 @@
+# CUMCM 2026 Problem B - 众擎PM01人形机器人格斗策略优化
+# Python >= 3.8
+
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pandas>=2.0
+seaborn>=0.12
